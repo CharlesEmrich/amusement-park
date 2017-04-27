@@ -1,0 +1,12 @@
+.height-form {
+  text-align: center;
+}
+
+.thumbnail {
+  height: 150px;
+  /*float: left;*/
+}
+
+p {
+  font-size: 18px;
+}
